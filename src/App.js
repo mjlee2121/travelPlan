@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is minji test
+          This is minji test2
         </a>
       </header>
     </div>
